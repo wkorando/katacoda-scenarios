@@ -29,6 +29,6 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "java"
+    "imageid": "openjdk:15"
   }
 }
